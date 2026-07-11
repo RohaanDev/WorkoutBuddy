@@ -1,3 +1,5 @@
-python-dotenv
 nicegui
 groq
+python-dotenv
+supabase
+bcrypt
